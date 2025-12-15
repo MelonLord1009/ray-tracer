@@ -1,0 +1,13 @@
+*.exe
+*.out
+*.o
+*.obj
+
+|*.ppm
+*.png
+*.jpg
+
+s
+.vscode/
+.idea/
+*.swp
